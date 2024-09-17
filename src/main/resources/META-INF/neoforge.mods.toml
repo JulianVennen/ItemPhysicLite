@@ -12,6 +12,7 @@ license="LGPL-3.0-only"
     authors="CreativeMD"
     description='''Enhances the rendering of items.'''
     displayTest="NONE"
+    side="CLIENT"
 
 [[dependencies.itemphysiclite]]
     modId="neoforge"
